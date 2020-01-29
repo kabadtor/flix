@@ -19,7 +19,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/pwOymkc23n.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+
+I had the same problem another user in Slack had where my pictures came out really tiny, but the Slack solution resolved my issue
 ---
 
 ## Flix Part 1
